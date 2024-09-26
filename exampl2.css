@@ -1,0 +1,14 @@
+body{
+    color: blue;
+    background-color: rgb(46, 37, 37);
+}
+.bold{
+    color: rgb(33, 211, 72);
+    font-family: "Open Sans", sans-serif;
+    font-size: xx-large;
+    box-sizing: border-box;
+}
+.black{
+    color: black;
+    background-color: rgb(5, 4, 10);
+}
